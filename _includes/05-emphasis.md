@@ -1,1 +1,8 @@
-Write out some of your awesome attributes, and use emphasis (like bold or italics) to identify keywords, programming languages, or skills. 
+## What makes me awesome
+- Good at **listening**
+- Always down to grab food with you
+- Speaks **multiple** languages
+## Countries visited
+- *Malaysia*
+- Hong Kong
+- South Korea
